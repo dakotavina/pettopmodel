@@ -410,7 +410,7 @@ section.height-auto .pos-vertical-center {
 }
 /**! 05. Images **/
 img {
-  max-width: 100%;
+  max-width: 110%;
   margin-bottom: 1.85714286em;
 }
 /*p+img, img:last-child{
@@ -4746,8 +4746,8 @@ section.parallax .row .background-image-holder {
   font-family: 'Open Sans', 'Roboto', 'Helvetica', Sans-Serif;
 }
 .bar .logo {
-  max-height: 1.85714286em;
-  max-width: none;
+  max-height: 2;
+  max-width: 2;
 }
 .menu-horizontal > li > a,
 .menu-horizontal > li > .modal-instance > a {
